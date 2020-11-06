@@ -1,8 +1,20 @@
 {
     "name": "timesz/bootsterapform",
     "description": "Class to create form with Bootstrap class",
-    "version": "1.0.1",
+    "type": "library",
+    "version": "1.0.2",
     "require": {
         "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "Jonas Bertin",
+            "email": "j.bertin@maxicoffee.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BootstrapForm\\": "BootstrapForm/"
+        }
     }
 }
