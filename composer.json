@@ -1,6 +1,7 @@
 {
     "name": "timesz/bootsterapform",
     "description": "Class to create form with Bootstrap class",
+    "version": "1.0.1",
     "require": {
         "php": "^7.2"
     }
